@@ -1,2 +1,12 @@
-## Código base para completar el curso de buenas prácticas y código limpio en C#
+## Código base para completar asignar tareas en C#
 **Gestor de Tareas**
+
+** Requerimientos Dot Net 7.0 **
+
+Para instalar, ejecutar el siguiente comando:
+  dotnet build .\ToDo.csproj
+
+Para utilizar, ejecutar el siguiente comando:
+  dotnet run .\ToDo.csproj
+
+  
