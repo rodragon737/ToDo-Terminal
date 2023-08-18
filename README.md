@@ -1,2 +1,2 @@
-# ToDo-Terminal
-Tareas a realizar desde un terminal
+## Código base para completar el curso de buenas prácticas y código limpio en C#
+**Gestor de Tareas**
